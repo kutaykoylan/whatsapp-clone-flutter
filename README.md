@@ -1,8 +1,8 @@
-# whatsappclone
+# :clipboard: Basic Whatsapp Material Design
 
-A new Flutter application.
+Basic design of the whatsapp that is made in flutter
 
-## Getting Started
+## :iphone: Getting Started
 
 This project is a starting point for a Flutter application.
 
@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## :star: Screens
+
+![Alt text](https://i.ibb.co/tHvNbxd/Ekran-Al-nt-s.png)
